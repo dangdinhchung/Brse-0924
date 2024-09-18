@@ -1,4 +1,5 @@
 form login
 update category
 create category
+update product
 create product
